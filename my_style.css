@@ -1,0 +1,19 @@
+/* Greeting
+=======================================*/
+
+.greeting p {
+  text-align: center;
+  font-size: 100px;
+}
+
+
+/* Toggled Class
+=======================================*/
+
+.hover {
+  background-image: url("mount-fuji-widescreen.png");
+}
+
+.text-hover {
+  color: transparent;
+}
